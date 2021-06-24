@@ -9,7 +9,7 @@ function loadItems() {
 //Update the list with the given items
 function displayItems(items) {
     const container = document.querySelector('.items');
-    container.innerHTML = items.map(item => createHTMLString(item).join(''));
+    container.innerHTML = items.map(item => createHTMLString(item)).join('');
 }
 
 //Create HTML list item from the given data item
