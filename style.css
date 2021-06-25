@@ -57,9 +57,9 @@ body {
     border-radius: var(--size-border);
 }
 
-.C, .Eb, .Gb, .A {background-color: var(--color-blue);}
-.Db, .E, .G, .Bb {background-color: var(--color-yellow);}
-.D, .F, .Ab, .B {background-color: var(--color-pink);}
+.c, .eb, .gb, .a {background-color: var(--color-blue);}
+.db, .e, .g, .bb {background-color: var(--color-yellow);}
+.d, .f, .ab, .b {background-color: var(--color-pink);}
 
 .items {
     background-color: var(--color-white);
