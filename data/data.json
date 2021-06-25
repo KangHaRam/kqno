@@ -1,16 +1,18 @@
  {
      "items": [
-         {"root": "C", "scale": "blues", "image": "../Scale/Blues/C.JPG" },
-         {"root": "Db", "scale": "blues", "image": "../Scale/Blues/Db.JPG" },
-         {"root": "D", "scale": "blues", "image": "../Scale/Blues/D.JPG" },
-         {"root": "Eb", "scale": "blues", "image": "../Scale/Blues/Eb.JPG" },
-         {"root": "E", "scale": "blues", "image": "../Scale/Blues/E.JPG" },
-         {"root": "F", "scale": "blues", "image": "../Scale/Blues/F.JPG" },
-         {"root": "Gb", "scale": "blues", "image": "../Scale/Blues/Gb.JPG" },
-         {"root": "G", "scale": "blues", "image": "../Scale/Blues/G.JPG" },
-         {"root": "Ab", "scale": "blues", "image": "../Scale/Blues/Ab.JPG" },
-         {"root": "A", "scale": "blues", "image": "../Scale/Blues/A.JPG" },
-         {"root": "Bb", "scale": "blues", "image": "../Scale/Blues/Bb.JPG" },
-         {"root": "B", "scale": "blues", "image": "../Scale/Blues/B.JPG" }
+         {"root": "c", "scale": "blues", "image": "../Scale/Blues/C.JPG" },
+         {"root": "db", "scale": "blues", "image": "../Scale/Blues/Db.JPG" },
+         {"root": "d", "scale": "blues", "image": "../Scale/Blues/D.JPG" },
+         {"root": "eb", "scale": "blues", "image": "../Scale/Blues/Eb.JPG" },
+         {"root": "e", "scale": "blues", "image": "../Scale/Blues/E.JPG" },
+         {"root": "f", "scale": "blues", "image": "../Scale/Blues/F.JPG" },
+         {"root": "gb", "scale": "blues", "image": "../Scale/Blues/Gb.JPG" },
+         {"root": "g", "scale": "blues", "image": "../Scale/Blues/G.JPG" },
+         {"root": "ab", "scale": "blues", "image": "../Scale/Blues/Ab.JPG" },
+         {"root": "a", "scale": "blues", "image": "../Scale/Blues/A.JPG" },
+         {"root": "bb", "scale": "blues", "image": "../Scale/Blues/Bb.JPG" },
+         {"root": "b", "scale": "blues", "image": "../Scale/Blues/B.JPG" }
+         
+         
      ]
  }
